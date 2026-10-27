@@ -1,0 +1,6 @@
+{
+  "name": "Ai Là Triệu Phú - Lớp Học Tranh Tài",
+  "description": "Trò chơi gameshow Ai Là Triệu Phú tích hợp máy quay số ngẫu nhiên chọn học sinh trả lời, các mốc điểm thưởng, quyền trợ giúp kinh điển và âm thanh kịch tính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
